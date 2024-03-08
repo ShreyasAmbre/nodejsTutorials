@@ -47,4 +47,15 @@ it directly goes to take an order from other table.
 
 5. Nodejs Core Module - Path Module -> ref. pathMod.js
 
-6. How to Import and Export Own Custom Modules -> ref inportExport Folder
+6. How to Import and Export Own Custom Modules -> ref. importExport/Calculator Folder
+
+7. How to import & Export Custom Modules using ES6 -> ref. importExport/animalCommunicate
+
+8. How to import npm modules -> ref. nodeMod folder
+=> To take the advantage of npm we need ot initialize in our project
+here our project folder name is 'nodeMod'
+=> Open the terminal and go inside your project folder ie: 'nodeMod'
+=> npm init (enter this command in cmd)
+=> follow the process after that you will notice package.json file inside your project folder
+this file contains all entries of package installed in this project.
+  
