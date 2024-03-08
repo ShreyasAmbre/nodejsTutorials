@@ -58,4 +58,11 @@ here our project folder name is 'nodeMod'
 => npm init (enter this command in cmd)
 => follow the process after that you will notice package.json file inside your project folder
 this file contains all entries of package installed in this project.
-  
+
+
+9. Nodemon in Nodejs - How to import GLOBAL npm modules -> ref. nodeMod folder 
+=> Basically we will learn to run our files automatically we dont need to 
+enter 'node filename.js' in terminal again and again after save to see the output.
+=> npm install nodemon -global (-global this flag is to install this package in our OS globally
+not just inside the project foler ie- nodeMod)
+
